@@ -1,4 +1,4 @@
-# Early Stage Diabetes Risk Prediction Dataset
+# Early Stage Diabetes Risk Prediction
 
 ## Overview
 This repository contains a machine learning model designed to predict the likelihood of an individual developing diabetes in the future based on certain features. The model is trained on a dataset consisting of various health metrics and historical data of individuals, and it utilizes supervised learning techniques to make predictions.
